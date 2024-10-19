@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 Saya sedang mengerjakan **Taqwa-App**
+- 🔭 Saya sedang mengerjakan **Taqwa-Zone Website**
 - 🌱 Saat ini, saya belajar **ReactJS, Vite, Webpack, Redux**
 - 💬 Tanyakan kepada saya tentang **HTML, CSS, JavaScript, ReactJS, Vite, Webpack, Redux**
 - 📫 Cara menghubungi saya: **muhammadwibby828@gmail.com**
