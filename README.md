@@ -3,6 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:muhammadwibby828@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
