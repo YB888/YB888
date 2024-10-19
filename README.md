@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
   <a href="https://webpack.js.org/" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=%2361DAFB" alt="Webpack" />
+    <img src="https://img.shields.io/badge/webpack-blue.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack" />
   </a>
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://img.shields.io/badge/vite-%2374B800.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
